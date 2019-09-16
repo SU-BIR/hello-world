@@ -1,2 +1,2 @@
 # hello-world
-this is my fast day i use the github.
+this is my fast programe in github. i want to be a good Engineer.
